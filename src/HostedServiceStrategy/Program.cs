@@ -1,9 +1,10 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using HostedServiceStrategy.Strategies;
 using HostedServiceStrategy.Contracts;
+using HostedServiceStrategy.Context;
+using HostedServiceStrategy.Utils;
 
 namespace HostedServiceStrategy
 {
