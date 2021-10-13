@@ -19,7 +19,7 @@ namespace HostedServiceStrategy.Utils
                 }
                 Console.WriteLine();
 
-            }
+            }          
         }
     }
 }

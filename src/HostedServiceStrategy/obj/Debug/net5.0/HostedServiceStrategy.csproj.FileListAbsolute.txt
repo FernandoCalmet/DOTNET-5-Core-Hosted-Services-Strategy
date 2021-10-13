@@ -42,7 +42,6 @@ D:\Github\FernandoCalmet\dotnet-core-hosted-services-strategy\src\HostedServiceS
 D:\Github\FernandoCalmet\dotnet-core-hosted-services-strategy\src\HostedServiceStrategy\obj\Debug\net5.0\HostedServiceStrategy.AssemblyInfoInputs.cache
 D:\Github\FernandoCalmet\dotnet-core-hosted-services-strategy\src\HostedServiceStrategy\obj\Debug\net5.0\HostedServiceStrategy.AssemblyInfo.cs
 D:\Github\FernandoCalmet\dotnet-core-hosted-services-strategy\src\HostedServiceStrategy\obj\Debug\net5.0\HostedServiceStrategy.csproj.CoreCompileInputs.cache
-D:\Github\FernandoCalmet\dotnet-core-hosted-services-strategy\src\HostedServiceStrategy\obj\Debug\net5.0\HostedServiceStrategy.csproj.CopyComplete
 D:\Github\FernandoCalmet\dotnet-core-hosted-services-strategy\src\HostedServiceStrategy\obj\Debug\net5.0\HostedServiceStrategy.dll
 D:\Github\FernandoCalmet\dotnet-core-hosted-services-strategy\src\HostedServiceStrategy\obj\Debug\net5.0\ref\HostedServiceStrategy.dll
 D:\Github\FernandoCalmet\dotnet-core-hosted-services-strategy\src\HostedServiceStrategy\obj\Debug\net5.0\HostedServiceStrategy.pdb
