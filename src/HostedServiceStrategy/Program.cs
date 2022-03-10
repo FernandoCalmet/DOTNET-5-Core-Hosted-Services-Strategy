@@ -17,7 +17,7 @@ namespace HostedServiceStrategy
             {
                 services.AddOptions();
                 services.AddSingleton<IStarPrinter, TriangleStarPrinter>();
-                services.AddHostedService<NotificationServiceContext>();
+                services.AddHostedService<NotificationServiceContext>();                
                 services.AddScoped<NotificationA>();
                 services.AddScoped<NotificationB>();
                 services.AddScoped<NotificationC>();

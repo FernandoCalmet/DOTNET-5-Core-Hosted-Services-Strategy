@@ -7,10 +7,10 @@ using HostedServiceStrategy.Contracts;
 
 namespace HostedServiceStrategy.Context
 {
-    public class NotificationServiceContext : BackgroundService
+    public class NotificationDailyService : BackgroundService
     {
         private IServiceScopeFactory _serviceScopeFactory;
-        public NotificationServiceContext(IServiceScopeFactory serviceScopeFactory)
+        public NotificationDailyService(IServiceScopeFactory serviceScopeFactory)
         {
             _serviceScopeFactory = serviceScopeFactory;
         }
@@ -27,7 +27,7 @@ namespace HostedServiceStrategy.Context
                     {
                         await cmd.ExecuteAsync();
                     }
-                    await Task.Delay(3000);
+                    await Task.Delay(1000);
                 }
                 type = DriverQueue.TryDequeue();
             };
