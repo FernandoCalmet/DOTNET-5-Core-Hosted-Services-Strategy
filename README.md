@@ -20,7 +20,7 @@ Este proyecto es una muestra de una solución base de `notificaciones en consola
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/DOTNET-5-Core-Hosted-Services-Strategy
+gh repo clone FernandoCalmet/dotnet-5-core-hosted-services-strategy
 ```
 
 Ejecutar aplicación.
